@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I made a slight adjustment here!
+          I made a slight adjustment here! I wondere if the second adjustment gets picked up!
         </p>
         <a
           className="App-link"
